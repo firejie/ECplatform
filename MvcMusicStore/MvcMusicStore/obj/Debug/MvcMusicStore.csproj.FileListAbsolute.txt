@@ -3,3 +3,8 @@ c:\users\zo\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\bi
 c:\users\zo\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
 c:\users\zo\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 c:\users\zo\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Company\O2O\GitHub\ECplatform\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Company\O2O\GitHub\ECplatform\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Company\O2O\GitHub\ECplatform\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Company\O2O\GitHub\ECplatform\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Company\O2O\GitHub\ECplatform\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
